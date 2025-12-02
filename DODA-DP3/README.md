@@ -22,7 +22,8 @@ Overall, these findings highlight how play by play data can challenge convention
 ### Home Team Comeback Win Probability
 This heatmap shows the probability that the home team eventually wins when trailing, based on point deficit and minutes remaining. It highlights the steep decline in comeback likelihood as both deficit and time pressure increase.
 
-![Home Team Comeback Win Probability](analysis/plots/comeback_probability.png)
+<img width="6661" height="2968" alt="image" src="https://github.com/user-attachments/assets/6e954d0c-b868-454e-a82a-2a5470508c20" />
+
 
 ### Overtime Predictors
 These plots demonstrate that games within five points with five minutes remaining are several times more likely to go to overtime. Overtime games also show smaller maximum leads during regulation, indicating sustained competitiveness from start to finish.
