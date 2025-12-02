@@ -28,12 +28,14 @@ This heatmap shows the probability that the home team eventually wins when trail
 ### Overtime Predictors
 These plots demonstrate that games within five points with five minutes remaining are several times more likely to go to overtime. Overtime games also show smaller maximum leads during regulation, indicating sustained competitiveness from start to finish.
 
-![Overtime Predictors](analysis/plots/overtime_predictors.png)
+<img width="4097" height="2800" alt="image" src="https://github.com/user-attachments/assets/2d525768-6fb5-4351-941f-806367ed061a" />
+
 
 ### Timeout Effectiveness
 This histogram shows net score change in the two minutes following a timeout. Positive values indicate the team that called timeout outscored their opponent, while negative values indicate the opposite. The distribution shows that timeouts are effective less than half the time.
 
-![Timeout Effectiveness](analysis/plots/timeout_effectiveness.png)
+<img width="6036" height="2371" alt="image" src="https://github.com/user-attachments/assets/8d2bcf0d-2346-42e4-ab4b-255bd10078f9" />
+
 
 ## Repository
 All code, data pipelines, and visualizations are available at:  
